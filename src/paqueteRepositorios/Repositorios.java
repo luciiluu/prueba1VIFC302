@@ -15,7 +15,7 @@ public class Repositorios {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Primer repositorio de NetBeans");
+        System.out.println("Estoy en la rama de pruebas");
     }
     
 }
